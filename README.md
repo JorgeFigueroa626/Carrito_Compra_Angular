@@ -2,6 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
+# Prerequisites
+
+- Get an API from [https://api.escuelajs.co/docs/](https://api.escuelajs.co/docs/)
+- Add the API in un `NewsService`  class
+
+# Screenshots
+
+| Carrito de Compras                                |
+|-------------------------------------------------|
+| <img src="https://github.com/JorgeFigueroa626/Carrito_Compra_Angular/blob/main/src/assets/cart_img.png" height="520"> | 
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
